@@ -10,6 +10,7 @@ namespace logicalProblem_Day6
     {
         public void coupons()
         {
+            
 
         }
     }
